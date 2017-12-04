@@ -19,6 +19,8 @@ public class Main3Activity extends AppCompatActivity {
         Activity03new();
         Activity03new();
         Activity03new();
+        Activity03new();
+        Activity03new();
 
     }
 
