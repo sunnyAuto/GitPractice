@@ -17,8 +17,6 @@ public class Main3Activity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         Activity03new();
-        Activity03new();
-        Activity03new();
     }
 
     private void Activity03new(){
