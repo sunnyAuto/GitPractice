@@ -18,7 +18,7 @@ public class Main3Activity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         Activity03new();
         Activity03new();
-        Activity03new();Activity03new();Activity03new();Activity03new();
+        Activity03new();
 
     }
 
