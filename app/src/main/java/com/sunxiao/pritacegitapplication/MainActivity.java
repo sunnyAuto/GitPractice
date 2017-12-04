@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent in = new Intent(MainActivity.this ,Main2Activity.class);
+                Intent in = new Intent(MainActivity.this ,Main3Activity.class);
                 startActivity(in);
             }
         });
