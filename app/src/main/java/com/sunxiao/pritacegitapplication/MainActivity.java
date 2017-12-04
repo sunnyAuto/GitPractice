@@ -30,4 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private void Activity01Older(){
         Log.e("print","activity01"+":::old");
     }
+    private void Activity01new(){
+        Log.e("print","activity01"+":::old");
+    }
 }
