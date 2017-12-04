@@ -16,8 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         initView();
         Activity01Older();
-
-        Activity01Older();Activity01Older();Activity01Older();Activity01Older();
+        Activity01Older();Activity01Older();
 
 
 
