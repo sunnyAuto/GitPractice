@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         initView();
         Activity01Older();
+
     }
 
     private void initView() {
@@ -29,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
     private void Activity01Older(){
-        Log.e("print","activity01"+":::old");
+        Log.e("print","activity01"+":::old"+"1111111111111111111111111111111111111");
     }
     private void Activity01new(){
         Log.e("print","activity01"+":::old");
