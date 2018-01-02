@@ -15,9 +15,5 @@ public class Main2Activity extends AppCompatActivity {
     private void Activity02Older(){
         Log.e("print","activity02"+":::old");
          Log.e("print","activity02"+":::old");
-         Log.e("print","activity02"+":::old");
-         Log.e("print","activity02"+":::old");
-         Log.e("print","activity02"+":::old");
-         Log.e("print","activity02"+":::old");
     }
 }
